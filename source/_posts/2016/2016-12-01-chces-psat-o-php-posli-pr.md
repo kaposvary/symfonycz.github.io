@@ -28,11 +28,11 @@ O PHP a jeho ekosystému - git, Github, PHPStorm, Doctrine, Latte, Symfony, Lara
 
 ### 2. Naše práce
 
-- **přidáme připomínky a copy tipy** - aby tvůj článek zaujal a nepustil do konce
+- **přidáme připomínky a copy tipy** - aby tvůj článek zaujal a nepustil čtenáře od obrazovky
 - **po zpracování připomínek článek vydáme**
 - **hodíme ho na sociální sítě nebo retweetneme tvé sdílení**
 
-Ty si pak můžeš hodit nohy na stůl a slíznout smetanu slávy. Ke smetatně ti pomůže a svoje sociální kruhy.  
+Ty si pak můžeš hodit nohy na stůl a slíznout smetanu slávy. 
 
 
 ## V čem můžeš psát?
